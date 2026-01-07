@@ -29,6 +29,9 @@ Enable users to download results for further analysis.
 https://customerreviewsentimentanalyzer1-qphcqzda3l8ffze6aysctj.streamlit.app/
 ## 💻 GitHub Repository:
 https://github.com/Chithra2936/Customer_Review_Sentiment_Analyzer1
+# Screenshots
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/46c79732-9ade-471a-9b61-4c93942d1877" />
+
 
 # Features
 
