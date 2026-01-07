@@ -30,7 +30,7 @@ https://customerreviewsentimentanalyzer1-qphcqzda3l8ffze6aysctj.streamlit.app/
 ## 💻 GitHub Repository:
 https://github.com/Chithra2936/Customer_Review_Sentiment_Analyzer1
 # Screenshots
-
+https://raw.githubusercontent.com/Chithra2936/Customer_Review_Sentiment_Analyzer1/REPO/main/Screenshot%202026-01-07%20180901.png
 # Features
 
 Real-time Sentiment Prediction – Classifies reviews instantly.
