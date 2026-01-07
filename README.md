@@ -1,15 +1,13 @@
-Customer Review Sentiment Analyzer 📊
+# Customer Review Sentiment Analyzer 📊
 
 A web application that uses Machine Learning to classify customer reviews as Positive, Neutral, or Negative.
 
-🌐 Live Demo
- | 💻 GitHub Repository
 
-Project Overview
+# Project Overview
 
 The Customer Review Sentiment Analyzer is a Streamlit web app that uses Natural Language Processing (NLP) and Machine Learning to predict the sentiment of customer reviews. It provides an easy-to-use interface for businesses to quickly understand feedback and visualize sentiment confidence.
 
-Objective:
+# Objective:
 
 Classify reviews into Positive, Neutral, or Negative categories.
 
@@ -17,9 +15,9 @@ Show prediction confidence visually.
 
 Enable users to download results for further analysis.
 
-Demo
-
-Example Reviews:
+# Demo
+ 
+## Example Reviews:
 
 😊 Positive: "I absolutely loved the product. It works perfectly!"
 
@@ -27,9 +25,12 @@ Example Reviews:
 
 😞 Negative: "Very disappointing experience. Not worth the money."
 
-Live Demo: Click here
+## 🌐 Live Demo: 
+https://customerreviewsentimentanalyzer1-qphcqzda3l8ffze6aysctj.streamlit.app/
+## 💻 GitHub Repository:
+https://github.com/Chithra2936/Customer_Review_Sentiment_Analyzer1
 
-Features
+# Features
 
 Real-time Sentiment Prediction – Classifies reviews instantly.
 
@@ -41,26 +42,7 @@ CSV Export – Download predictions for documentation or analysis.
 
 Interactive & Responsive UI – Clean and user-friendly design.
 
-Folder Structure
-Customer_Review_Sentiment_Analyzer1/
-│
-├── data/
-│   └── review.csv            # Dataset containing reviews and sentiment labels
-│
-├── model/
-│   ├── sentiment_model.pkl   # Trained Logistic Regression model
-│   └── tfidf.pkl             # TF-IDF vectorizer
-│
-├── notebook/
-│   └── Sentiment_Analysis.py # Data preprocessing & model training script
-│
-├── app/
-│   └── app.py                # Streamlit web application
-│
-├── requirements.txt          # Project dependencies
-└── README.md                 # Project documentation
-
-Installation
+# Installation
 
 1. Clone the repository
 
@@ -84,7 +66,7 @@ pip install -r requirements.txt
 
 streamlit run app/app.py
 
-Usage
+# Usage
 
 Enter a review in the text box or select one of the example reviews.
 
@@ -94,7 +76,7 @@ View the predicted sentiment and confidence percentage.
 
 Download the results as a CSV for further analysis.
 
-Technologies Used
+# Technologies Used
 
 Python – Programming language
 
@@ -108,7 +90,7 @@ Scikit-learn – Machine Learning (Logistic Regression, TF-IDF)
 
 Matplotlib – Visualization
 
-Future Enhancements
+# Future Enhancements
 
 Upgrade model to BERT / Transformer-based sentiment analysis for higher accuracy.
 
@@ -118,7 +100,7 @@ Sentiment trend analysis with time-series visualizations.
 
 Enable user authentication and save history of reviews.
 
-Contributing
+# Contributing
 
 Contributions are welcome!
 
@@ -132,13 +114,13 @@ Commit and push (git commit -m 'Add feature')
 
 Submit a pull request
 
-Author
+# Author
 
 Chithra Kurma
 B.Tech CSE (3rd Year)
-Aspiring Data Analyst
 
-⭐ Acknowledgements
+
+#⭐ Acknowledgements
 
 Streamlit Documentation
 
@@ -146,4 +128,4 @@ Scikit-learn
 
 NLTK
 
-⭐ If you like this project, don’t forget to star the repository!
+## ⭐ If you like this project, don’t forget to star the repository!
