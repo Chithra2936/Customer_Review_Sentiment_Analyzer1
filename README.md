@@ -32,6 +32,7 @@ https://github.com/Chithra2936/Customer_Review_Sentiment_Analyzer1
 # Screenshots
 
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/46c79732-9ade-471a-9b61-4c93942d1877" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/df9bf660-efc8-420b-8d7f-0afb689f2ebe" />
 
 
 # Features
