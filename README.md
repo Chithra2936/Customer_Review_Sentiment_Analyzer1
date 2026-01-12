@@ -29,6 +29,8 @@ Enable users to download results for further analysis.
 https://customerreviewsentimentanalyzer1-qphcqzda3l8ffze6aysctj.streamlit.app/
 ## 💻 GitHub Repository:
 https://github.com/Chithra2936/Customer_Review_Sentiment_Analyzer1
+## Demo Video Link
+"C:\Users\User\Downloads\Chithra2936_Customer_Review_Sentiment_Analyzer1 - Google Chrome 2026-01-12 12-19-30"
 # Features
 
 Real-time Sentiment Prediction – Classifies reviews instantly.
